@@ -69,12 +69,12 @@ The Astronaut Scheduler is a console-based application designed to help astronau
 
 2. **Build the project**:
     ```bash
-    mvn clean install
+     mvn clean package
     ```
 
 3. **Run the application**:
     ```bash
-    mvn exec:java -Dexec.mainClass="com.astronaut.Main"
+   mvn exec:java  
     ```
 
 ## Possible Inputs and Corresponding Outputs
