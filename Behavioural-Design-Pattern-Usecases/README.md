@@ -71,7 +71,7 @@ The Command pattern is used to encapsulate all information needed to perform an 
 
 1. Clone the main repository:
    ```sh
-    git clone https://github.com/YOUR_USERNAME/BehavioralPatternDemo.git
+    git clone https://github.com/DhahiraShreen/Behavioural-Design-Pattern-Usecases.git
     cd BehavioralPatternDemo
 
 2.  Build the project using Maven:
