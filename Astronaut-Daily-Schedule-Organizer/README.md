@@ -63,7 +63,7 @@ The Astronaut Scheduler is a console-based application designed to help astronau
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/AstronautScheduler.git
+    git clone https://github.com/DhahiraShreen/Astronaut-Daily-Schedule-Organizer-.git
     cd AstronautScheduler
     ```
 
