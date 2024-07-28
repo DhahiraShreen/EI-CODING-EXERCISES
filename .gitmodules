@@ -1,3 +1,9 @@
 [submodule "Astronaut-Daily-Schedule-Organizer"]
 	path = Astronaut-Daily-Schedule-Organizer
 	url = https://github.com/yourusername/Astronaut-Daily-Schedule-Organizer.git
+[submodule "Astronaut-Daily-Schedule-Organizer-"]
+	path = Astronaut-Daily-Schedule-Organizer-
+	url = https://github.com/DhahiraShreen/Astronaut-Daily-Schedule-Organizer-.git
+[submodule "Submodules/EI-CODING-EXERCISES"]
+	path = Submodules/EI-CODING-EXERCISES
+	url = https://github.com/DhahiraShreen/Astronaut-Daily-Schedule-Organizer-.git
