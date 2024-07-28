@@ -67,7 +67,7 @@ The Prototype pattern is used to create new objects by copying existing ones. Th
 
 1. Clone the main repository:
   
-   git clone https://github.com/yourusername/CreationalPatternsDemo.git
+   git clone https://github.com/DhahiraShreen/Creational-Design-pattern-Usecases.git
    
    cd CreationalPatternsDemo
 
