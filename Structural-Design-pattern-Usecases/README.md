@@ -69,7 +69,7 @@ The Composite pattern is used to treat individual objects and compositions of ob
 
 1. Clone the main repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/StructuralPatternsDemo.git
+   git clone https://github.com/DhahiraShreen/Structural-Design-pattern-Usecases.git
    cd StructuralPatternsDemo
 2. Build the project using Maven:
    ```sh
